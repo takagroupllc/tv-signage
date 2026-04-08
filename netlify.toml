@@ -18,3 +18,10 @@
   to = "https://script.google.com/macros/s/AKfycbxhTGckQC_giAkPc_gm4Z79ckZdCkVfEUt5ekkm9QvdBB0oNzdPeWq8J38j9-fSnBF7Kg/exec"
   status = 200
   force = true
+
+# TV 3 proxy
+[[redirects]]
+  from = "/api/playlist3"
+  to = "https://script.google.com/macros/s/AKfycbyU6BytSKaU_qNXENdDIyuCq46hccQH-d7cGh9dfFn1_k_PI4KRlcVudsG4LbH-OybbzA/exec"
+  status = 200
+  force = true
